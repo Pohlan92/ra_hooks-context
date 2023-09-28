@@ -1,0 +1,19 @@
+.fetcher_list {
+  padding: 20px;
+}
+
+.fetcher_list > div {
+  margin-bottom: 5px;
+}
+
+.successful_request {
+  color: #00b500;
+}
+
+.error {
+  color: #f00;
+}
+
+.loading {
+  color: #00f;
+}
